@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSample", "PDFSample\PDFSample.csproj", "{372CDCF5-46C8-4702-B6FD-AC715F376F40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MdToPDF", "MdToPDF\MdToPDF.csproj", "{374C8CED-50D8-4FFB-9B0D-72FC3D4DA977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{372CDCF5-46C8-4702-B6FD-AC715F376F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{372CDCF5-46C8-4702-B6FD-AC715F376F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{372CDCF5-46C8-4702-B6FD-AC715F376F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374C8CED-50D8-4FFB-9B0D-72FC3D4DA977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374C8CED-50D8-4FFB-9B0D-72FC3D4DA977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374C8CED-50D8-4FFB-9B0D-72FC3D4DA977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374C8CED-50D8-4FFB-9B0D-72FC3D4DA977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
